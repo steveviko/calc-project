@@ -1,5 +1,5 @@
-"# calc-project" 
-# Introduction
+# Calculator-project 
+## Introduction
 
 This is a repo for calculator project. I open-sourced this repo because I wanted to share my code.
 
